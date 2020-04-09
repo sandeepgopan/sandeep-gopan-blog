@@ -16,8 +16,8 @@ module.exports = [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Luigi Colella Blog',
-        short_name: 'Luigi Colella',
+        name: 'Sandeep Gopan Blog',
+        short_name: 'Sandeep Gopan',
         start_url: '/',
         background_color: '#0C2744',
         theme_color: '#0C2744',
